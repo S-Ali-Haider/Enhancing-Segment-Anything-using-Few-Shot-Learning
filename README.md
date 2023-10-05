@@ -4,5 +4,7 @@ Presenting a novel yet simple system that extends SAM’s segmentation capabilit
 About the Repository:
 
 . The Code folder contains a single Python Notebook.
+
 . The Datasets folder contains two zipped datasets needed to execute the Python file provided.
+
 . The repository does not contain the code which was used for creating segmentation masks using the pretrained SAM.
