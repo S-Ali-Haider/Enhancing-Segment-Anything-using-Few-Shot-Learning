@@ -2,9 +2,6 @@
 Presenting a novel yet simple system that extends SAM’s segmentation capabilities by automatically picking the correct segmentation mask. The approach leverages the power of few-shot learning (FSL) methods coupled with an Out-of-Distribution (OOD) threshold strategy. 
 
 About the Repository:
-
-. The Code folder contains a single Python Notebook.
-
-. The Datasets folder contains two zipped datasets needed to execute the Python file provided.
-
-. The repository does not contain the code which was used for creating segmentation masks using the pretrained SAM.
+. The Code folder contains a single Python Notebook. \n
+. The Datasets folder contains two zipped datasets needed to execute the Python file provided. \n
+. The repository does not contain the code which was used for creating segmentation masks using the pretrained SAM. \n
